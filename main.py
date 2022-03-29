@@ -9,3 +9,4 @@ for i in zakupy:
     a=a+len(zakupy[i])
 print(f"W sumie kupuje {a} elementow")
 print ("commit1-test")
+print ("commit2-test")
