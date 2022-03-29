@@ -10,3 +10,4 @@ for i in zakupy:
 print(f"W sumie kupuje {a} elementow")
 print ("commit1-test")
 print ("commit2-test")
+print ("Pozdrawiam specjalnie! A jakze!")
